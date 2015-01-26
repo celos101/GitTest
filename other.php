@@ -1,5 +1,3 @@
 <?php
 
-//test
-
-//Added in feature 1
+//Changed to other
